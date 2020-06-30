@@ -1,0 +1,9 @@
+$layout = "./layout1.html";
+$stylesheet = "./style1.css";
+$head = "./head.inc.php";
+$titre = "Mon premier template php";
+$mainbgcolor = "FFCCFF";
+$entete = "./entete.php";
+$menu = "./menu.php";
+$rightcol = "./rightcol.php";
+$bottom = "./bottom.php";
