@@ -9,7 +9,7 @@ include($head);
 // Autres variables valides pour cette page seulement
 $titrepage = "./images/title1.jpg";
 $photo = "./images/photo1.jpg";
-$contenu = "welcome.html";
+$main = "main.php";
 
 // Inclure le template du design principal
 
