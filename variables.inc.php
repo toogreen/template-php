@@ -1,4 +1,5 @@
-$layout = "./layout1.html";
+<?php 
+$layout = "./layout1.inc.php";
 $stylesheet = "./style1.css";
 $head = "./head.inc.php";
 $titre = "Mon premier template php";

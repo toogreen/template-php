@@ -1,9 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <?php
 
 // Inclure les variables générales et la partie "head"
 include('variables.inc.php');
+
 include($head);
 
 // Autres variables valides pour cette page seulement
